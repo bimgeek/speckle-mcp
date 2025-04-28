@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/bimgeek-speckle-mcp-badge.jpg)](https://mseep.ai/app/bimgeek-speckle-mcp)
+
 # Speckle MCP Server
 
 A Model Context Protocol (MCP) server for interacting with Speckle, the collaborative data hub that connects with your AEC tools.
