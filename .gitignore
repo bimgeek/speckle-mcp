@@ -254,3 +254,7 @@ htmlcov/
 local/
 dev/
 development/
+
+# Claude
+.claude/
+claude.md
